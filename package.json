@@ -1,7 +1,7 @@
 {
   "name": "leaflet-side-by-side",
-  "version": "2.0.0",
-  "description": "Compare two Leaflet layers side by side",
+  "version": "2.0.1",
+  "description": "Compare two Leaflet layers side by side (Kairos bugfix clone)",
   "main": "index.js",
   "browserify": {
     "transform": [
@@ -40,7 +40,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/digidem/leaflet-side-by-side.git"
+    "url": "git@github.com:KairosAerospace/leaflet-side-by-side.git"
   },
   "bugs": {
     "url": "https://github.com/digidem/leaflet-side-by-side/issues"
